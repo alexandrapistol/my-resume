@@ -532,7 +532,7 @@ export default function Home() {
           <Label number="05" title="Education" />
           <div className="grid gap-9">
             <div>
-              <p className="text-sm font-bold text-teal-700">2011 - 2014</p>
+              <p className="text-sm font-bold text-teal-700">2010 - 2013</p>
               <h2 className="mt-2 text-2xl font-black tracking-[-.04em]">
                 Bachelor&apos;s Degree, Computer Science
               </h2>
