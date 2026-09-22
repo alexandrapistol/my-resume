@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Alexandra Pistol | Frontend Engineer",
   description: "Portfolio and resume of Alexandra Pistol, Frontend Engineer.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
