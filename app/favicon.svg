@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #1a1a1a; }
+        .text { fill: #e0e0e0; }
+      }
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #ffffff; }
+        .text { fill: #000000; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="192" height="192" class="bg"/>
+
+  <!-- Text with code brackets -->
+  <text x="96" y="120" font-family="monospace" font-size="72" font-weight="bold" text-anchor="middle" class="text">&lt;ALP&gt;</text>
+</svg>
